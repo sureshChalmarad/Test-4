@@ -1,0 +1,75 @@
+.Description{
+    
+    margin: 40px 80px 10px 80px;
+
+}
+
+.Recommended h2{
+margin: 20px 80px 10px 80px;
+}
+
+.Products{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.Products .Hoodie{
+    width: 223px;
+    height: 346px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color:  #D8D8D8;
+    margin-bottom: 20px;
+    padding: 3.5px 4.5px 3.5px 2.5px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.Products .Hoodie img{
+    padding-top: 28px;
+    padding-left: 31px;
+}
+
+.Products .Hoodie H3{
+   margin-top: 15px;
+  text-align: center;
+  font-family: Segoe UI;
+font-size: 20px;
+font-weight: 400 ;
+line-height: 21px;
+letter-spacing: 0em;
+color: #262626;
+} 
+
+.Products .Hoodie H2{
+    margin-top: 15px;
+    margin-bottom: 25px;
+  text-align: center;
+  font-family: Segoe UI;
+font-size: 22px;
+font-weight: 400 ;
+line-height: 21px;
+letter-spacing: 0em;
+color: #262626; 
+}
+
+
+.Products .Hoodie button{
+    width :116px;
+    height :36px;
+    margin-left: 55px;
+    color:     #FFFFFF ;
+    border: none;
+    background-color:  #47AFFF;
+    font-family: Segoe UI;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    border-radius: 5px;
+
+}

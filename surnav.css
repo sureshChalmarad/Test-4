@@ -1,0 +1,90 @@
+
+
+.submain
+{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.submain div{
+    margin-top: 15px;
+}
+
+ .social button
+{
+    background-color: rgb(27, 111, 206);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 5px;
+    width: 75px;
+    height: 35px;
+    font-size: medium;
+    font-weight: 600;
+
+}
+
+.social input
+{
+    border-radius: 3px;
+    padding: 5px;
+    width: 280px;
+    height: 25px;
+}
+
+.social img
+{
+    border: solid;
+    height: 30px;
+    width: 25px;
+    padding: 8px;
+    margin: 2px;
+}
+
+
+.pay
+{
+    background-color:black;
+    color: white;
+    padding-left: 100px;
+
+}
+
+.pay b
+{
+    background-color: black;
+    color: white;
+    
+}
+
+.pay img
+{
+    border: solid;
+    height: 12px;
+    width: 18px;
+    padding: 8px;
+    margin: 2px;
+}
+
+.bott 
+{
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+.img1 img
+{
+    width: 18px;
+    margin-top: -18px;
+}
+
+.img1 span
+{
+    margin-left: 5px;
+}
